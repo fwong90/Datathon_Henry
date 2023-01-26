@@ -3,7 +3,8 @@
 # Intro
 Hola 👋 mi nombre es Felix Wong, y estoy cursando el bootcamp Henry - Data Science.
 
-En este proyecto (PI02) vamos a desarrollar un modelo de Machine Learning el cual pueda clasificar ofertas de activos inmobiliarios entre baratas o no.
+En este proyecto (PI02) vamos a desarrollar un modelo de Machine Learning el cual pueda clasificar ofertas de activos inmobiliarios entre baratas o no, dadas un conjunto de caracteristicas por propiedad.
+
 Como metodología de trabajo:
 
 Usaremos como lenguaje de programación Python con las librerias:
