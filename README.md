@@ -19,3 +19,4 @@ Para mejor entendimiento y lectura del código, iremos en las siguientes fases:
  + Selección de caracteristicas importantes
  + Desarrollo de Modelos de Machine Learning
 
+Dentro del repositorio encontrarán el código de desarrollo, una base de datos adicional generada con codigo en python para descartar registros de latitud y longitud que pertenecen a EEUU (territorio de estudio en este dataset), así como un .csv con el resultado de la predicción realizada con el mejor modelo.
